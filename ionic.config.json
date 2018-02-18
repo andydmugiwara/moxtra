@@ -1,0 +1,8 @@
+{
+  "name": "moxtra",
+  "app_id": "604fffeb",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
